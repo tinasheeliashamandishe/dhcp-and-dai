@@ -23,6 +23,6 @@ The lab consists of 2 router, 1 switch, and 2 computers. <br/>
 <br />
 
 <h4>DHCP Snooping Configuration:</h4> 
-Before DHCP is configured the devices do not have IP address settings yet.<br/>
+Configuration on the switch.<br/>.<br/>
 <img src="https://i.imgur.com/oZCZNgZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
 <br />
